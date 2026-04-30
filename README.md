@@ -1,2 +1,2 @@
 # Emergency Department and UPCC Accessibility 
-Code for hackathon
+Two Random Forest implementations for predicting ED and UPCC waittimes and elos
